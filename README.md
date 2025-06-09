@@ -1,4 +1,4 @@
-# Orion-Pay: High-Performance Multi-Chain Crypto Payment Gateway
+# Molly: A High-Performance Multi-Chain Crypto Payment Gateway
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-60%25%20complete-brightgreen" alt="Status">
